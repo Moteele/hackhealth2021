@@ -1,0 +1,19 @@
+-- Merging decision tree log ---
+manifest
+ADDED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml:1:1-3:12
+INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml:1:1-3:12
+	package
+		ADDED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml:2:3-47
+		INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
+		INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml:1:11-69
+uses-sdk
+INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
+INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
+		ADDED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
+		INJECTED from A:\Developments\Flutter\.pub-cache\hosted\pub.dartlang.org\wakelock-0.1.4+1\android\src\main\AndroidManifest.xml
