@@ -8,3 +8,5 @@ To tackle the Challenge #1, we developed a simple app, which is able to measure 
 
 *mypulse* - flutter-based app, which means it's cross-platorm (Android, iPhone) with a simplistic GUI.
 
+plot.png - example tagged data
+
