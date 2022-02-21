@@ -7,4 +7,4 @@ We developed a simple app, which is able to measure a person's Photoplethysmogra
 
 plot.png - example tagged data
 
-This code is running on [Intersystems server](52773-1-5b2c2b30.labs.learning.intersystems.com). However, there is still some work to be done before it can communicate with our app.
+This code is running on [Intersystems server](http://52773-1-5b2c2b30.labs.learning.intersystems.com). However, there is still some work to be done before it can communicate with our app.
